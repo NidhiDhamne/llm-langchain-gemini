@@ -5,4 +5,4 @@ Clone the repository
 Create a virtual environment on your local machine
 Install the requirements and others as required
 
-![Alt text](/output.png)
+![sample output](ouput.png)
